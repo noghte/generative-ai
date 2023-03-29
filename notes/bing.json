@@ -1,0 +1,14 @@
+[
+    {
+        "frequency": 440,
+        "duration": 1
+    },
+    {
+        "frequency": 493.88,
+        "duration": 0.5
+    },
+    {
+        "frequency": 523.25,
+        "duration": 1.5
+    }
+]

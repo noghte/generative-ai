@@ -1,0 +1,17 @@
+[
+    {"pitch": "C4", "duration": 0.5},
+    {"pitch": "D4", "duration": 0.5},
+    {"pitch": "E4", "duration": 0.5},
+    {"pitch": "C4", "duration": 0.5},
+    {"pitch": "C4", "duration": 0.5},
+    {"pitch": "D4", "duration": 0.5},
+    {"pitch": "E4", "duration": 1.0},
+    {"pitch": "C4", "duration": 0.5},
+    {"pitch": "D4", "duration": 0.5},
+    {"pitch": "E4", "duration": 0.5},
+    {"pitch": "C4", "duration": 0.5},
+    {"pitch": "C4", "duration": 0.5},
+    {"pitch": "D4", "duration": 0.5},
+    {"pitch": "E4", "duration": 1.0}
+  ]
+  
