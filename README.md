@@ -10,16 +10,17 @@ Tested on 03-29-2023 `(mm-dd-yyyy)`.
 
 Assuming conda is installed, run the following commands:
 
-    conda create -n env-genai python=3.10
-    conda activate env-genai
-    pip install -r requirements.txt
-
-- To run the gpt3.py script, you need to install the alsa library. 
-    - On Ubuntu, run `sudo apt -y install alsa-tools`.
-    - On Mac: `brew install alsa-lib`
-    - On Windows: https://www.alsa-project.org/wiki/Download
+```bash
+conda create -n env-genai python=3.10
+conda activate env-genai
+pip install -r requirements.txt
+```
 
 ## Final results after follow-up questions
-1. **Bard:** I'm not trained for coding yet, so I can't help with that right now. I can help you write things, brainstorm ideas, or answer other complex questions. Maybe we can try something like that?
+1. **Bard:** _I'm not trained for coding yet, so I can't help with that right now. I can help you write things, brainstorm ideas, or answer other complex questions. Maybe we can try something like that?_
 
 2. **Bing Chat:** [bing.py](bing.py)
+
+3. **ChatGPT 3.5:** [gpt3.5.py](gpt3.5.py)
+
+4. **ChatGPT 4.0:** [gpt4.py](gpt4.0.py)
