@@ -19,8 +19,8 @@ pip install -r requirements.txt
 ## Final results after follow-up questions
 1. **Bard:** _I'm not trained for coding yet, so I can't help with that right now. I can help you write things, brainstorm ideas, or answer other complex questions. Maybe we can try something like that?_
 
-2. **Bing Chat:** [bing.py](bing.py)
+2. **Bing Chat:** [bing.py](bing.py) (example notes: [notes/bing.json](notes/bing.json))
 
-3. **ChatGPT 3.5:** [gpt3.5.py](gpt3.5.py)
+3. **ChatGPT 3.5:** [gpt3.5.py](gpt3.5.py) (example notes: [notes/gpt3.5.json](notes/gpt3.5.json) - it also created [note_map.json](note_map.json)
 
-4. **ChatGPT 4.0:** [gpt4.py](gpt4.0.py)
+4. **ChatGPT 4.0:** [gpt4.py](gpt4.0.py) (example notes: [notes/gpt4.json](notes/gpt4.json))
